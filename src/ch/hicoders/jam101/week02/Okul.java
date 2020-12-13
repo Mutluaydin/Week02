@@ -15,6 +15,7 @@ public class Okul {
         liste.add(ogr2);
         liste.add(ogr3);
         liste.add(ogr4);
+        // deneme
 
 
         for (Ogrenci student:liste) {
